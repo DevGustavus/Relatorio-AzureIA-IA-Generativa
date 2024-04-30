@@ -29,9 +29,11 @@
 ### Resultados:
 
 #### Imagem 1:
-<img alt="result_copilot1" src="outputs/result_copilot1" width="600px">
+<img alt="result_copilot1" src="outputs/result_copilot1.jpg" width="600px">
+
 #### Imagem 2:
-<img alt="result_copilot2" src="outputs/result_copilot2" width="600px">
+<img alt="result_copilot2" src="outputs/result_copilot2.jpg" width="600px">
+
 > Repare que para um mesmo prompt, pode haver variações, os resultados podem até serem semelhantes, mas sempre serão diferentes.
 
 <hr>
@@ -46,10 +48,16 @@
 
 ### Imagem a ser analisada:
 
+<img alt="bandeira da arabia saudita" src="inputs/teste_txt_to_img.webp" width="600px">
+
 ### Resultados:
 
+<img alt="resultado analise bandeira" src="outputs/result_txt_to_img.png">
+
+> #### Tradução de "لاالهالامحمد◌َعة" para PT-BR: "Não há outra divindade além de Alá, e Maomé é o Mensageiro de Alá".
 
 <hr>
 
 ## Conclusão:
 
+Com base nas tecnologias apresentadas, Azure IA e IA Generativa, fica claro seu potencial em diferentes cenários. O Copilot da Microsoft destaca-se pela capacidade de gerar conteúdo textual e visual a partir de prompts, útil para áreas como design gráfico e prototipagem. Além disso, o reconhecimento de texto em imagens, exemplificado pelo Azure, revela a utilidade da IA na extração de informações visuais, com aplicações em automação e análise de dados. Em resumo, essas ferramentas oferecem soluções inovadoras e eficazes, tornando-se recursos valiosos para empresas e profissionais em diversas áreas.
